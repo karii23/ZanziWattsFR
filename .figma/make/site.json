@@ -1,0 +1,10 @@
+{
+  "description": "Interactive dashboard simulating solar power usage and optimization for IIT Madras Zanzibar, enabling real-time energy, cost, and roof space analysis.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
